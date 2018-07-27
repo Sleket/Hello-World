@@ -1,4 +1,4 @@
 # Hello-World
 My first repo
 
-These are my changes to this file to continue leaning GIT.
+This is the a new line.
